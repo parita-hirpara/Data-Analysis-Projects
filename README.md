@@ -1,6 +1,3 @@
-# Data-Analysis-Projects
-Portfolio of Data Analytics Projects
-
 # 🚗 Car Insurance Premium Optimization Model
 
 # Objectives
