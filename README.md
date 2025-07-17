@@ -11,10 +11,18 @@ Portfolio of Data Analytics Projects
 ## Overview
 This project focuses on optimizing car insurance premium pricing using data-driven insights. The current generic pricing model used by insurers fails to account for individual risk factors, leading to inaccurate pricing, customer dissatisfaction, and a declining competitive edge.
 
-## Tools Used
-- Advanced Excel techniques
-- Pivot table creation
-- Data analysis and interpretation
-- Data visualization
+# Skills & Tools Used
+Data Cleaning & Preprocessing (Excel)
+Data Modeling & Visualization
+Exploratory Data Analysis (EDA)
+Strategic Business Recommendations
+Dashboard Design for Decision Support
 
-## Key Insights
+## 📌 Key Insights
+Demographics: Married individuals earn slightly more than non-married; high school education dominates.
+Vehicle Preferences: SUVs are the most common across several job categories (e.g., Blue Collar, Homemakers).
+Regional Trends: Southeast region shows highest mileage and car variety.
+Usage Patterns:
+Longest average commutes: Lawyers & Professionals.
+Highest mileage cities: Houston and Las Vegas.
+Mileage positively correlates with car age.
